@@ -1,4 +1,4 @@
-# Project Based Internship dari Rakamin Academy X Kalbe Nutrionals
+# Project Based Internship Rakamin Academy X Kalbe Nutrionals
 - folder dataset = dataset yang digunakan
    
    *noted **delimiter dataset (,)**
